@@ -1,0 +1,27 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is Namaste React by Ankit Kaushik",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aKaushik147/namaste-react.git"
+  },
+  "keywords": [
+    "namaste-react",
+    "Ankit",
+    "Kaushik"
+  ],
+  "author": "Ankit Kaushik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aKaushik147/namaste-react/issues"
+  },
+  "homepage": "https://github.com/aKaushik147/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
